@@ -77,7 +77,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Dream | ${client.guilds.size} ${client.users.size} servers/user`,"http://twitch.tv/YouTube")
+client.user.setGame(`Mavis | ${client.guilds.size} ${client.users.size} Server,"http://twitch.tv/YouTube")
 client.user.setStatus("dnd")
 });
 
